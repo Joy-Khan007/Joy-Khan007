@@ -1,8 +1,7 @@
 
 - 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nawshad-zaman-khan-ba5697218/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:joy281002@gmail.com) 
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nawshad-zaman-khan-ba5697218/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=joy281002@gmail.com)
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning Java,Spring Boot,Python,Computer Vision
 - 👯 I’m looking to collaborate on ...
